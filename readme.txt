@@ -1,4 +1,4 @@
-# Klassifikation von News Headlines mit Naive Bayes
+Klassifikation von News Headlines mit Naive Bayes
 
 Um die Anwendung nutzen zu können, werden die Python Librariers Pandas und Numpy benötigt.
 Für das Labelling wurde zudem NLTK benutzt, um die Anwendung zu nutzen wird dies jedoch nicht benötigt.
