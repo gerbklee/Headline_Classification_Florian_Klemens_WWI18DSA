@@ -14,6 +14,6 @@ Um das Frontend nutzen zu können werden folgende Libraries benötigt:
 - newsapi-python
 - pandas
 
-Um die Anwendung zu starten App.py starten. Anzeige im Browser wurde lediglich mit der Browser Vorschau von Visual Studio Code getestet. 
+Um die Anwendung zu starten App.py in Virtual Studio Code ausführen. Anschließend im Browser localhost:5000 besuchen um die Anwendung zu nutzen.
 
 Für weitere Informationen bitte das Paper "HeadlineClassification" zurate ziehen.
